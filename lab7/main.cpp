@@ -5,6 +5,7 @@ class shape{
 protected:
     int dim1;
     int dim2;
+    // new branch
 public:
     shape(){dim1=dim2=0;}
     shape(int x);
