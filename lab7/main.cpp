@@ -121,5 +121,6 @@ int main(int argc, const char * argv[]) {
     geoshape total(array,6);
     
     std::cout<<"total area = "<<total.totalAera()<<std::endl;
+    std::cout<<"hi from dev branch abdelhay"<<endl;
     return 0;
 }
